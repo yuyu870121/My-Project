@@ -16,5 +16,38 @@ namespace N09310002
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            String count = label4.Text;
+            int sum = Int32.Parse(count) + 1;
+            label4.Text = sum.ToString();
+
+            int height = button1.Height;
+            int width = button1.Width;
+            button1.Size = new Size(width + 10, height + 10);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            String count = label4.Text;
+            int sum = Int32.Parse(count) - 1;
+            label4.Text = sum.ToString();
+        }
     }
 }
