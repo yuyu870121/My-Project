@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\My-Project\\N09310002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2136C654-33AA-490D-90E2-8A15F68CA987}|N09310002\\N09310002.csproj|c:\\users\\administrator\\desktop\\my-project\\n09310002\\n09310002\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2136C654-33AA-490D-90E2-8A15F68CA987}|N09310002\\N09310002.csproj|solutionrelative:n09310002\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\My-Project\\N09310002\\N09310002\\Form1.cs",
+              "RelativeDocumentMoniker": "N09310002\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\My-Project\\N09310002\\N09310002\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "N09310002\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:16:22.581Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

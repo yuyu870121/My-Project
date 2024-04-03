@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\bin\Debug\N09310002.exe.config
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\bin\Debug\N09310002.exe
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\bin\Debug\N09310002.pdb
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.Form1.resources
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.Properties.Resources.resources
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.exe
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.pdb
