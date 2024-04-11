@@ -49,5 +49,27 @@ namespace N09310002
             int sum = Int32.Parse(count) - 1;
             label4.Text = sum.ToString();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int a = Int32.Parse(textBox1.Text);
+            int b = Int32.Parse(textBox2.Text);
+            label7.Text = ( a + b ).ToString();
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
