@@ -18,3 +18,13 @@ C:\Users\MEGAS\Desktop\My-Project-main\N09310002\N09310002\obj\Debug\N09310002.c
 C:\Users\MEGAS\Desktop\My-Project-main\N09310002\N09310002\obj\Debug\N09310002.csproj.CoreCompileInputs.cache
 C:\Users\MEGAS\Desktop\My-Project-main\N09310002\N09310002\obj\Debug\N09310002.exe
 C:\Users\MEGAS\Desktop\My-Project-main\N09310002\N09310002\obj\Debug\N09310002.pdb
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\bin\Debug\N09310002.exe.config
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\bin\Debug\N09310002.exe
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\bin\Debug\N09310002.pdb
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.Form1.resources
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.exe
+C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.pdb
