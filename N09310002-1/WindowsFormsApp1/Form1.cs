@@ -53,5 +53,22 @@ namespace WindowsFormsApp1
             second = 0;
             label1.Text = String.Format("{0}秒", second);
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form form_Layouts = new Form_Layouts();
+            form_Layouts.Show();
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

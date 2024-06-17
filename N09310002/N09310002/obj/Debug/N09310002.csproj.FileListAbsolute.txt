@@ -30,3 +30,6 @@ C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.exe
 C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.pdb
 C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.Form2.resources
 C:\Users\MEGAS\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.Form3.resources
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.Form2.resources
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.Form3.resources
+C:\Users\Administrator\Desktop\My-Project\N09310002\N09310002\obj\Debug\N09310002.Form4.resources

@@ -18,3 +18,5 @@ C:\Users\Administrator\Desktop\My-Project\N09310002-1\WindowsFormsApp1\obj\Debug
 C:\Users\Administrator\Desktop\My-Project\N09310002-1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\My-Project\N09310002-1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Administrator\Desktop\My-Project\N09310002-1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\My-Project\N09310002-1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Administrator\Desktop\My-Project\N09310002-1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Layouts.resources

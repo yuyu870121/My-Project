@@ -96,9 +96,16 @@ namespace N09310002
 
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void button6_Click_1(object sender, EventArgs e)
         {
+            Form form_Layouts = new Form_Layouts();
+            form_Layouts.Show();
+        }
 
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form form_Layouts = new Form_Layouts();
+            form_Layouts.Show();
         }
     }
 }
